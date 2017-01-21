@@ -1,0 +1,2 @@
+defmodule ElixirIssues do
+end
